@@ -1,0 +1,77 @@
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #95de64;
+  border-color: #95de64;
+}
+
+.ant-checkbox-focus {
+  border-color: #95de64;
+}
+
+.ant-collapse {
+  border-radius: 7px;
+  margin: 1px;
+}
+
+.ant-collapse-header{
+  text-align: left;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: monospace;
+  background-color: #b0e0e6;
+}
+
+.ant-collapse-content {
+  /*background-color: #fac53e;*/
+  border: solid;
+  border-top: none;
+  border-color: rgb(203, 245, 255);
+  border-width: 1px;
+}
+
+.task__content {
+  max-height: 515px;
+  overflow-y: auto;
+}
+
+.closeButton {
+  opacity: 0;
+}
+
+.closeButton:hover {
+  opacity: 1;
+}
+
+.ant-list-item {
+  /*background-color: #8edefb;*/
+  background-color: white;
+  color:black;
+  font-weight: 550;
+}
+
+.alert__box {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 50px;
+}
+
+.empty__alert {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 16px;
+  /*background-color: #25bcf3;*/
+  color: black;
+  width: 350px;
+  /*border-radius: 5px;
+  box-shadow: black 0px 2px 2px*/;
+}
+
+.ant-card {
+  border: none;
+  box-shadow: black 0px 2px 2px;
+}
+
+.clearBtn {
+  justify-content: center;
+  align-items: center;
+}
